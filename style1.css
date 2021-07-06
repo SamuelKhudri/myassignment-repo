@@ -84,3 +84,8 @@ h3{
     text-align: center;
     color:#dcdf25b2;
   }
+  @media only screen and (max-width: 720px) {
+   body {
+     background-color: lightblue;
+   }
+ }
