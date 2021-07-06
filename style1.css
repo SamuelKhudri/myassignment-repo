@@ -1,0 +1,86 @@
+.front1
+{
+font-family: 'Lobster', cursive;
+color:red;
+font-weight: 700;
+}
+.name
+{
+ font-size: 50px;color:#c51599;
+} 
+.name1
+{
+ color:#6f00ff;font-size: 40px;
+}
+h3{
+    font-family: 'Lobster', cursive;
+    font-family: 'Nunito', sans-serif;color:black;
+    color:#08e608f1;
+    font-weight: 700;
+ }
+ button{
+    color:white;background-color:#f56734;;font-weight:400px;
+    border-inline-color:black;border-radius:20px;padding:5px 10px;
+}
+.sec1
+{
+    display:flex;background-repeat: no-repeat;
+    background-image: url(shape/bannar.png);
+    margin-bottom: 100px;
+}
+.div1
+{
+  width:50%;padding:20px; 
+}
+.div1 img
+{
+ width:80%;height:90%;}
+ .sec2
+ {
+    display:flex;background-repeat: no-repeat;
+    background-image: url(shape/Frame\ 58.jpg);
+    background-position: 0%;
+    background-color: #d4279a6e; 
+    margin-bottom: 100px;   
+ }
+ .sec3-exp
+ {margin-bottom: 200px;}
+ .div2{
+    width:50%;padding:5px 40px;  
+ }
+ .div2 img
+ {width:80%;height:101%;}
+
+ .divmaster1{display:flex;}
+.divmaster1 P{ color:#000000 }
+.divi3-iteam
+   {
+     box-shadow: 10px 12px 40px rgb(84, 85, 82);
+     width:45%;margin-left: 5%;margin-right: 5%;
+     padding:20px 20px;border-radius: 25px;
+   } 
+   .divi3-iteam img
+   {
+    width:100%;
+   }
+   #im1
+   {height:200px;border-radius: 15px;}
+   #im2
+   {height:200px; border-radius: 15px;}
+   #im3
+   {border-radius: 15px;}
+   .divi4
+   {background-color: black;border-radius: 50px;}
+   
+ #ja
+ {color:#4c00ff;}
+ .front2
+ {font-size: 40px;color:#c51599;text-align: center;}
+ .front3
+ {font-size: 20px;text-align: center;}
+ body{margin: 0%;}
+ .fot1
+ {
+    text-align: center;
+    color:#dcdf25b2;
+  }
